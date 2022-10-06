@@ -29,11 +29,11 @@ Here is the summary table of the results and we also put screen shots after the 
 
 ​		Accuracy Score:
 
-![image-20221005205010626](Resources\image-20221005205010626.png)
+![image-20221005205010626](Resources/image-20221005205010626.png)
 
 ​		Classification Report:
 
-![image-20221005204938392](Resources\image-20221005204938392.png)
+![image-20221005204938392](Resources/image-20221005204938392.png)
 
 
 
@@ -41,11 +41,11 @@ Here is the summary table of the results and we also put screen shots after the 
 
 ​		Accuracy Score:
 
-![image-20221005205208717](Resources\image-20221005205208717.png)
+![image-20221005205208717](Resources/image-20221005205208717.png)
 
 ​		Classification Report:
 
-![image-20221005205237785](Resources\image-20221005205237785.png)
+![image-20221005205237785](Resources/image-20221005205237785.png)
 
 
 
@@ -53,11 +53,11 @@ Here is the summary table of the results and we also put screen shots after the 
 
 ​		Accuracy Score:
 
-![image-20221005213001101](Resources\image-20221005213001101.png)
+![image-20221005213001101](Resources/image-20221005213001101.png)
 
 ​		Classification Report:
 
-![image-20221005213025572](Resources\image-20221005213025572.png)
+![image-20221005213025572](Resources/image-20221005213025572.png)
 
 
 
@@ -65,11 +65,11 @@ Here is the summary table of the results and we also put screen shots after the 
 
 ​		Accuracy Score:
 
-![image-20221005205714187](Resources\image-20221005205714187.png)
+![image-20221005205714187](Resources/image-20221005205714187.png)
 
 ​		Classification Report:
 
-![image-20221005205739773](Resources\image-20221005205739773.png)
+![image-20221005205739773](Resources/image-20221005205739773.png)
 
 
 
@@ -77,11 +77,11 @@ Here is the summary table of the results and we also put screen shots after the 
 
 ​		Accuracy Score:
 
-![image-20221005210119649](Resources\image-20221005210119649.png)
+![image-20221005210119649](Resources/image-20221005210119649.png)
 
 ​		Classification Report:
 
-![image-20221005210150318](Resources\image-20221005210150318.png)
+![image-20221005210150318](Resources/image-20221005210150318.png)
 
 
 
@@ -89,11 +89,11 @@ Here is the summary table of the results and we also put screen shots after the 
 
 ​		Accuracy Score:  
 
-![image-20221005213105038](Resources\image-20221005213105038.png)
+![image-20221005213105038](Resources/image-20221005213105038.png)
 
 ​		Classification Report: 
 
-![image-20221005213128080](Resources\image-20221005213128080.png)
+![image-20221005213128080](Resources/image-20221005213128080.png)
 
 
 
